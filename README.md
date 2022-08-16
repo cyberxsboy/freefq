@@ -1956,3 +1956,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdhb2Z1bWVpLm5ldF/ljJfnvo7lnLDljLogIDc4
 
 
 ```  
+
+
+### 高速节点：
+请自行注册购买 [clashcloud](https://clashcloud.xyz) 
+
+
+
+
+
+
