@@ -9,7 +9,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ### 节点更新订阅  
 - `https://raw.githubusercontent.com/cyberxsboy/freefq/master/v2`  
 ### 自建节点订阅  
-更多节点地址请移步至：gaofumei.net
+更多节点地址请移步至：[gaofumei.net](https://gaofumei.net) 
 ## v2ray  
 ```  
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@fhcarm2.gaox.ml:443?security=tls&type=tcp&headerType=none#clashcloud.xyz_Relay_-%F0%9F%87%BA%F0%9F%87%B8US_1033
