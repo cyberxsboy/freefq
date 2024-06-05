@@ -1,7 +1,7 @@
 更新时间 2022-08-16 12:00  
 所有免费节点都爬取自网络，请勿用于非法用途  
-|  工具  | Android  | Windows  |  
-|  ----  | ----   | ----  |  
+|  工具  |   all  |Android| Windows |  
+|  ----  | ----   | ----  |   ----  |  
 | v2ray  |  [Hiddify](https://github.com/cyberxsboy/Hiddify-freefq) | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
 ### 节点导入方法  
